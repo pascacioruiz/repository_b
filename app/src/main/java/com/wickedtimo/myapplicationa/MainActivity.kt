@@ -13,5 +13,5 @@ class MainActivity : AppCompatActivity() {
         number_text.text = getNumber().toString()
     }
 
-    private fun getNumber() = 10
+    private fun getNumber() = 10 - 5
 }
