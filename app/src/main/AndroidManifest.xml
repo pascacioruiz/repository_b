@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-<<<<<<< HEAD
-    package="com.wickedtimo.myapplicationb">
-=======
+
     package="com.wickedtimo.myapplicationa">
->>>>>>> 6ee0dd4f22084a2d902287a285d16a1801b19ac0
 
     <application
         android:allowBackup="true"
